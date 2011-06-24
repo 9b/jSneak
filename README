@@ -2,13 +2,8 @@ Simple PoC of JavaScript delivery based on timed token. Page generated contains 
 
 If the token is correct then the JavaScript source reference is added to the page which is then executed making an AJAX request back to the server for the true JavaScript payload.
 
-<<<<<<< HEAD
-*Proposed use:*
-Delivery of Javascript in a more obscure way. 
-=======
 == Proposed use ==
-Delivery of browser-based exploits in a more obscure way. 
->>>>>>> 58a9b36ec28e309b43cddd1aa78509a6fe75b42b
+Delivery of Javascript in a more obscure way. 
 
 == Benefits ==
 1) Javascript does not need to be referenced on the initial load making the page appear normal. 
